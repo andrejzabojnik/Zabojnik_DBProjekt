@@ -1,0 +1,453 @@
+{
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "year_published": 1997,
+  "ISBN": "978-0-7475-3269-9",
+  "pageCount": 223,
+  "format": "Hardcover",
+  "edition": "First",
+  "publication_date": "1997-06-26T00:00:00Z",
+  "weight": 0.8,
+  "Author": [
+    {
+      "first_name": "J.K.",
+      "last_name": "Rowling",
+      "nationality": "British",
+      "biography": "J.K. Rowling is a British author, best known for writing the Harry Potter series.",
+      "website": "https://www.jkrowling.com",
+      "birth_date": "1965-07-31T00:00:00Z"
+    }
+  ],
+  "Genre": [
+    {
+      "genre_name": "Fantasy",
+      "description": "Books that contain magical or supernatural elements that do not exist in the real world."
+    }
+  ],
+  "Publisher": [
+    {
+      "name": "Bloomsbury Publishing",
+      "Address": {
+        "street": "50 Bedford Square",
+        "city": "London",
+        "state": "England",
+        "postal_code": "WC1B 3DP",
+        "country": "UK"
+      },
+      "founder": "Nigel Newton",
+      "website": "https://www.bloomsbury.com"
+    }
+  ],
+  "Language": [
+    {
+      "language_name": "English",
+      "country_of_origin": "UK",
+      "number_of_speakers": "360 million"
+    }
+  ],
+  "Series": {
+    "series_name": "Harry Potter",
+    "description": "A series of fantasy novels about the adventures of a young wizard, Harry Potter."
+  },
+  "Reviews": [
+    {
+      "user_rating": 5.0,
+      "review_text": "An amazing start to a legendary series. Magical and captivating.",
+      "review_date": "1997-07-10T00:00:00Z",
+      "Users": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "Address": {
+          "street": "123 Fictional Road",
+          "city": "Edinburgh",
+          "state": "Scotland",
+          "postal_code": "EH1 1AB",
+          "country": "UK"
+        }
+      }
+    },
+    {
+      "user_rating": 4.8,
+      "review_text": "A magical journey that is timeless and wonderful for all ages.",
+      "review_date": "1997-08-15T00:00:00Z",
+      "Users": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "Address": {
+          "street": "456 Imaginary Blvd",
+          "city": "London",
+          "state": "England",
+          "postal_code": "WC2N 5DU",
+          "country": "UK"
+        }
+      }
+    }
+  ],
+  "Events": [
+    {
+      "name": "Book Launch",
+      "event_date": "1997-06-26T00:00:00Z",
+      "description": "The official launch event for the first Harry Potter book."
+    },
+    {
+      "name": "Book Signing",
+      "event_date": "1997-07-15T00:00:00Z",
+      "description": "Book signing event with J.K. Rowling in London."
+    }
+  ],
+  "Awards": [
+    {
+      "name": "British Book Awards Children's Book of the Year",
+      "organization_name": "British Book Awards",
+      "year": 1998,
+      "award_date": "1998-03-01T00:00:00Z"
+    },
+    {
+      "name": "Nestlé Smarties Book Prize",
+      "organization_name": "Nestlé",
+      "year": 1997,
+      "award_date": "1997-11-01T00:00:00Z"
+    }
+  ]
+},
+{
+  "title": "The Forest Secrets",
+  "year_published": 2020,
+  "ISBN": "978-1-234-56789-0",
+  "pageCount": 280,
+  "format": "Hardcover",
+  "edition": "First",
+  "publication_date": "2020-09-10T00:00:00Z",
+  "weight": 0.9,
+  "Author": [
+    {
+      "first_name": "Anna",
+      "last_name": "Johnson",
+      "nationality": "Canadian",
+      "biography": "Anna Johnson is a nature enthusiast and author who explores the hidden wonders of forests.",
+      "website": "https://annajohnson.com",
+      "birth_date": "1980-07-15T00:00:00Z"
+    }
+  ],
+  "Genre": [
+    {
+      "genre_name": "Nature",
+      "description": "Books that reveal the secrets and beauty of nature."
+    }
+  ],
+  "Publisher": [
+    {
+      "name": "Nature's Publishing",
+      "Address": {
+        "street": "456 Forest Lane",
+        "city": "Toronto",
+        "state": "Ontario",
+        "postal_code": "M5V 2T6",
+        "country": "Canada"
+      },
+      "founder": "David Green",
+      "website": "https://naturespublishing.com"
+    }
+  ],
+  "Language": [
+    {
+      "language_name": "English",
+      "country_of_origin": "Canada",
+      "number_of_speakers": "37 million"
+    }
+  ],
+  "Series": {
+    "series_name": "Nature's Wonders",
+    "description": "A series of books that explore various natural wonders."
+  },
+  "Reviews": [
+    {
+      "user_rating": 4.6,
+      "review_text": "A beautifully written book that uncovers the mysteries of the forest.",
+      "review_date": "2021-01-15T00:00:00Z",
+      "Users": {
+        "first_name": "Michael",
+        "last_name": "Smith",
+        "email": "michael.smith@example.com",
+        "Address": {
+          "street": "789 Maple Street",
+          "city": "Vancouver",
+          "state": "British Columbia",
+          "postal_code": "V6B 3K9",
+          "country": "Canada"
+        }
+      }
+    }
+  ],
+  "Events": [
+    {
+      "name": "Nature Book Fair",
+      "event_date": "2020-11-20T00:00:00Z",
+      "description": "A fair showcasing books about nature and the environment."
+    }
+  ],
+  "Awards": [
+    {
+      "name": "Best Nature Book",
+      "organization_name": "Canadian Nature Society",
+      "year": 2021,
+      "award_date": "2021-03-10T00:00:00Z"
+    }
+  ]
+},
+{
+  "title": "Mysteries of the Ocean",
+  "year_published": 2022,
+  "ISBN": "123-456-789",
+  "pageCount": 350,
+  "format": "Paperback",
+  "edition": "First",
+  "publication_date": "2022-01-20T00:00:00Z",
+  "weight": 0.8,
+  "Author": [
+    {
+      "first_name": "Hiroshi",
+      "last_name": "Yamamoto",
+      "nationality": "Japanese",
+      "biography": "Hiroshi Yamamoto is a marine biologist and author known for his work on oceanic mysteries.",
+      "website": "https://hiroshiyamamoto.example.com",
+      "birth_date": "1975-05-10T00:00:00Z"
+    }
+  ],
+  "Genre": [
+    {
+      "genre_name": "Science",
+      "description": "Books that delve into scientific research and discoveries."
+    }
+  ],
+  "Publisher": [
+    {
+      "name": "Marine Publishing",
+      "Address": {
+        "street": "789 Ocean Drive",
+        "city": "Tokyo",
+        "state": "Tokyo",
+        "postal_code": "100-0001",
+        "country": "Japan"
+      },
+      "founder": "Akira Tanaka",
+      "website": "https://marinepublishing.example.com"
+    }
+  ],
+  "Language": [
+    {
+      "language_name": "Japanese",
+      "country_of_origin": "Japan",
+      "number_of_speakers": "125 million"
+    }
+  ],
+  "Series": {
+    "series_name": "Oceanic Wonders",
+    "description": "A series of books exploring the wonders of the ocean."
+  },
+  "Reviews": [
+    {
+      "user_rating": 4.7,
+      "review_text": "An enthralling journey into the depths of the ocean.",
+      "review_date": "2022-02-15T00:00:00Z",
+      "Users": {
+        "first_name": "Yuki",
+        "last_name": "Suzuki",
+        "email": "yuki.suzuki@example.com",
+        "Address": {
+          "street": "123 Sakura Street",
+          "city": "Osaka",
+          "state": "Osaka",
+          "postal_code": "540-0001",
+          "country": "Japan"
+        }
+      }
+    }
+  ],
+  "Events": [
+    {
+      "name": "Marine Biology Symposium",
+      "event_date": "2022-03-10T00:00:00Z",
+      "description": "A symposium discussing the latest findings in marine biology."
+    }
+  ],
+  "Awards": [
+    {
+      "name": "Best Marine Science Book",
+      "organization_name": "Japanese Marine Science Association",
+      "year": 2022,
+      "award_date": "2022-04-25T00:00:00Z"
+    }
+  ]
+},
+{
+  "title": "The Great Adventure",
+  "year_published": 2021,
+  "ISBN": "987-654-321",
+  "pageCount": 512,
+  "format": "Hardcover",
+  "edition": "First",
+  "publication_date": "2021-11-05T00:00:00Z",
+  "weight": 1.2,
+  "Author": [
+    {
+      "first_name": "Marie",
+      "last_name": "Curie",
+      "nationality": "Polish",
+      "biography": "Marie Curie was a renowned physicist and chemist who conducted pioneering research on radioactivity.",
+      "website": "https://mariecurie.example.com",
+      "birth_date": "1867-11-07T00:00:00Z"
+    }
+  ],
+  "Genre": [
+    {
+      "genre_name": "Science",
+      "description": "Books that explore scientific concepts and discoveries."
+    }
+  ],
+  "Publisher": [
+    {
+      "name": "Science Publishing House",
+      "Address": {
+        "street": "123 Curie Street",
+        "city": "Warsaw",
+        "state": "Mazovia",
+        "postal_code": "00-001",
+        "country": "Poland"
+      },
+      "founder": "Kazimierz Curie",
+      "website": "https://sciencepublishinghouse.example.com"
+    }
+  ],
+  "Language": [
+    {
+      "language_name": "Polish",
+      "country_of_origin": "Poland",
+      "number_of_speakers": "50 million"
+    }
+  ],
+  "Series": {
+    "series_name": "Scientific Discoveries",
+    "description": "A series of books detailing significant scientific discoveries."
+  },
+  "Reviews": [
+    {
+      "user_rating": 4.9,
+      "review_text": "An insightful and comprehensive exploration of scientific principles.",
+      "review_date": "2021-11-15T00:00:00Z",
+      "Users": {
+        "first_name": "Jan",
+        "last_name": "Kowalski",
+        "email": "jan.kowalski@example.com",
+        "Address": {
+          "street": "456 Nowak Avenue",
+          "city": "Krakow",
+          "state": "Lesser Poland",
+          "postal_code": "30-001",
+          "country": "Poland"
+        }
+      }
+    }
+  ],
+  "Events": [
+    {
+      "name": "Book Launch",
+      "event_date": "2021-11-05T00:00:00Z",
+      "description": "A launch event for the release of 'The Great Adventure'."
+    }
+  ],
+  "Awards": [
+    {
+      "name": "Best Science Book",
+      "organization_name": "Polish Science Society",
+      "year": 2022,
+      "award_date": "2022-02-20T00:00:00Z"
+    }
+  ]
+},
+{
+  "title": "Life in the Mountains",
+  "year_published": 2021,
+  "ISBN": "978-3-16-148410-0",
+  "pageCount": 320,
+  "format": "Hardcover",
+  "edition": "1st",
+  "publication_date": "2021-05-15T00:00:00Z",
+  "weight": 1.2,
+  "Author": [
+    {
+      "first_name": "John",
+      "last_name": "Smith",
+      "nationality": "Slovak",
+      "biography": "John Smith is a renowned author known for his extensive research on nature.",
+      "website": "http://johnsmith.com",
+      "birth_date": "1970-04-12T00:00:00Z"
+    }
+  ],
+  "Genre": [
+    {
+      "genre_name": "Nature",
+      "description": "Books that explore the beauty and complexity of the natural world."
+    }
+  ],
+  "Publisher": [
+    {
+      "name": "Mountain Publisher",
+      "Address": {
+        "street": "123 High St",
+        "city": "Bratislava",
+        "state": "Bratislava",
+        "postal_code": "81101",
+        "country": "Slovakia"
+      },
+      "founder": "Michael Green",
+      "website": "http://mountainpublisher.com"
+    }
+  ],
+  "Language": [
+    {
+      "language_name": "English",
+      "country_of_origin": "Slovakia",
+      "number_of_speakers": 5000000
+    }
+  ],
+  "Series": {
+    "series_name": "Wilderness Adventures",
+    "description": "A series of books that delve into various wilderness experiences."
+  },
+  "Reviews": [
+    {
+      "user_rating": 4.8,
+      "review_text": "An insightful and captivating read about life in the mountains.",
+      "review_date": "2021-06-01T12:00:00Z",
+      "Users": {
+        "first_name": "Sarah",
+        "last_name": "Connor",
+        "email": "sarah.connor@example.com",
+        "Address": {
+          "street": "456 Oak Dr",
+          "city": "Kosice",
+          "state": "Kosice",
+          "postal_code": "04001",
+          "country": "Slovakia"
+        }
+      }
+    }
+  ],
+  "Events": [
+    {
+      "name": "Mountain Festival",
+      "event_date": "2021-07-20T00:00:00Z",
+      "description": "Book launch event at the Mountain Festival."
+    }
+  ],
+  "Awards": [
+    {
+      "name": "Literature Award",
+      "organization_name": "Slovak Literary Society",
+      "year": 2021,
+      "award_date": "2021-11-15T00:00:00Z"
+    }
+  ]
+}
